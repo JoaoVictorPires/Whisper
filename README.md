@@ -126,6 +126,12 @@ result = whisper.decode(model, mel, options)
 # Imprimir o texto reconhecido
 print(result.text)
 ```
+## Transformer
+![Imagem do WhatsApp de 2024-12-02 à(s) 17 26 47_d4b0dc98](https://github.com/user-attachments/assets/7c55cc3d-5cb9-466b-b7d4-5fa45d948972)
+
+## Seq2Seq
+![Imagem do WhatsApp de 2024-12-02 à(s) 17 26 22_5b56a549](https://github.com/user-attachments/assets/d7aa6c22-eef8-4f58-abf0-7bfe303a71c9)
 ## Mais exemplos
+
 
 Por favor, utilize a [🙌 Show and tell](https://github.com/openai/whisper/discussions/categories/show-and-tell) em Discussões para compartilhar mais exemplos de uso do Whisper e extensões de terceiros, como demonstrações web, integrações com outras ferramentas, ports para diferentes plataformas, etc.
